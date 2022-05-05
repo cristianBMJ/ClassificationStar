@@ -2,5 +2,5 @@
 
 classification-star.ipynb
 
-LINK    Proyect Machine Learning classification Start Giants  or  Dwarfs , consider the  dataset LK, Study categorization the Stars, according to criteria ..... Firstly, the dataset was cleaned  and then balanced. In order to apply  five models's Machine Learning, resulting in a ...  
+[Categorization Stars](https://github.com/cristianBMJ/ProyectsDataScience/blob/main/classification-star.ipynb)   Proyect classification's Machine Learning of Start Giants  or  Dwarfs , consider the  dataset LK, SThe categorization the Stars was studied according to criteria ..... Firstly, the dataset was cleaned  and then it was balanced. In order to apply  five models's Machine Learning, resulting in a ...  
 
